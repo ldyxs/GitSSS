@@ -12,6 +12,7 @@ public class HelloWord {
 		System.out.println("cccc");
 		System.out.println("dddd");
 		System.out.println("eeee");
+		System.out.println("ffff");
 		System.out.println("=================");
 	}
 	
