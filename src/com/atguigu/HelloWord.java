@@ -6,7 +6,8 @@ public class HelloWord {
 		
 		System.out.println("hello word");
 		System.out.println("hello word 01");
-		System.out.println("·şÎñÆ÷");
+		System.out.println("æœåŠ¡å™¨æ›´æ–°äº†");
+		
 	}
 	
 	
