@@ -7,6 +7,10 @@ public class HelloWord {
 		System.out.println("hello word");
 		System.out.println("hello word 01");
 		System.out.println("服务器更新了");
+		System.out.println("aaaa");
+		System.out.println("bbbb");
+		System.out.println("cccc");
+		
 		System.out.println("=================");
 	}
 	
